@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1088761472421",
+    "firebase_url": "https://homejoy-984f4.firebaseio.com",
+    "project_id": "homejoy-984f4",
+    "storage_bucket": "homejoy-984f4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1088761472421:android:0ba577e6ec413429",
+        "android_client_info": {
+          "package_name": "android.example.homejoy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1088761472421-92sjn5p0af3aovbf4ffihb6fibv1rk96.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "android.example.homejoy",
+            "certificate_hash": "40be7599462c78076f4bb804242cfe29ee5d5b18"
+          }
+        },
+        {
+          "client_id": "1088761472421-4dqve0npmq50snl39lqd89a71ri7a0nl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvCPYA1ZZSVQyhtWYtwsPboiX9deDew98"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1088761472421-4dqve0npmq50snl39lqd89a71ri7a0nl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
